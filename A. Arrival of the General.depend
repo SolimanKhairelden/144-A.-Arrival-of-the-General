@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602742548 source:c:\users\dell\desktop\icpc\sheet level0\a. arrival of the general\main.cpp
+	<iostream>
+	<algorithm>
+	<iterator>
+
